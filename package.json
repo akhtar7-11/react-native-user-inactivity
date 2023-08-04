@@ -2,7 +2,7 @@
   "name": "react-native-user-inactivity",
   "version": "1.2.0",
   "description": "React Native component that notifies if the user is active or not",
-  "main": "src/index.js",
+  "main": "src/index.tsx",
   "typings": "src/index.d.ts",
   "scripts": {
     "clean": "rimraf ./lib",
